@@ -3,7 +3,8 @@
 # Hi there, I'm Amal Raj! 👋
 
 I'm a passionate Full Stack Developer with a love for creating dynamic and responsive web applications. <br>
-I've completed Angela Yu's Full Stack Development course on Udemy, where I honed my skills in JavaScript and other web technologies.
+I've completed Angela Yu's Full Stack Development course on Udemy, where I honed my skills in JavaScript and other web technologies.<br>
+I'm currently enrolled in Maximilian Schwarzmüller's course on Udemy, focusing on React.js, Redux.js, Next.js
 
 
 ## 🌐 Socials:
